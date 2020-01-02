@@ -10,7 +10,7 @@ The "fake_image_generation_codes.zip" file contains matlab program used for gene
 
 “training_code.m” is the matlab program for implementing neural network training.
 
-If you do not want to go through training the neural network, our trained NunchuckNet is availabel here: https://ucsb.box.com/s/4ixuxkgsrr4kac855ukc2tv3if2ab6wi
+If you do not want to go through training the neural network, our trained NunchuckNet is available here: https://ucsb.box.com/s/4ixuxkgsrr4kac855ukc2tv3if2ab6wi
 
 "AnalyzeDataWithNunchuckNet.m" is a matlab program that uses NunchuckNet to analyze image sequences.
 

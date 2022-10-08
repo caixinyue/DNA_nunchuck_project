@@ -15,4 +15,4 @@ If you do not want to go through training the neural network, our trained Nunchu
 "AnalyzeDataWithNunchuckNet.m" is a matlab program that uses NunchuckNet to analyze image sequences.
 
 
-For questions or associated programs, email Xinyue (Amber) Cai at xcai@physics.ucsb.edu
+For questions or related programs, email Xinyue (Amber) Cai at xcai@physics.ucsb.edu
